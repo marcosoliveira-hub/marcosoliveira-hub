@@ -2,7 +2,7 @@
 **marcosoliveira-hub/marcosoliveira-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 Sobre mim:
-🔭 Sou estudante de Ciência da Computação na Universidade Estadual de Maringá (UEM), tenho 21 anos, nasci e vivo no Brasil 🇧🇷.<br>🌱 Atualmente estou estudando sobre a área de segurança em software para futuramente tirar uma certificação.<br>⚡ Fato curioso: Apesar da busca em trabalho em segurança, pretendo um dia<br>entrar no mercado de jogos.<br>💬 Dúvidas? Estou a disposição em todos os canais de comunicação abaixo (Incluindo Github, claro).
+🔭 Sou estudante de Ciência da Computação na Universidade Estadual de Maringá (UEM), tenho 21 anos, nasci e vivo no Brasil 🇧🇷.<br>🌱 Atualmente estou estudando sobre a área de segurança em software para futuramente tirar uma certificação.<br>⚡ Fato curioso: Apesar da busca em trabalho em segurança, pretendo um dia entrar no mercado de jogos.<br>💬 Dúvidas? Estou a disposição em todos os canais de comunicação abaixo (Incluindo Github, claro).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_0marcosoliveira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-vinicius-de-oliveira-aa2609200/) 
